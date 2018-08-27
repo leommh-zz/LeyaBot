@@ -13,7 +13,7 @@ Demonstrar que é possível desenvolver rapidamente um chatbot simples, útil e 
 
 ## Telas e Habilidades
 
-<h4 align="center">1º Tela -> Nesta primeira tela Leya pergunta se você deseja escolher as buscas pré-definidas ou escrever algo de seu gosto</h4>
+<h4 align="center">1º Tela -> Leya pergunta se você deseja as buscas pré-definidas ou escrever algo de seu gosto</h4>
 <p align="center"> 
   <img src="https://i.imgur.com/NEXqOl9.jpg">
 </p>
