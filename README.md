@@ -1,7 +1,7 @@
 # LeyaBot
 
 #### Leya é uma linda e honesta atendente digital que conversa com você, ou seja, é um chatbot :D
-Ela é orientada via regras e contém algumas funções bacanas como por exemplo pesquisar algum produto no Mercado Livre para você, lhe dando opções pré-estabelecidas de pesquisa ou então permitindo que você mesmo escreva algo do seu gosto, 
+Ela é orientada via regras e contém algumas funções bacanas como por exemplo pesquisar algum produto no Mercado Livre para você, lhe dando opções pré-estabelecidas de pesquisa ou então permitindo que você mesmo escreva algo do seu gosto. O projeto foi desenvolvido utilizando o framework React-Native e também a API do [MercadoLibre](https://developers.mercadolibre.com/pt_br/api-docs-pt-br) e a API [React-Native-Chatbot](https://github.com/LucasBassetti/react-native-chatbot).
 
 ## Motivo de sua existência
 Demonstrar que é possível desenvolver rapidamente um chatbot simples, útil e bonito utilizando React-Native, NodeJS e APIs.
@@ -9,7 +9,7 @@ Demonstrar que é possível desenvolver rapidamente um chatbot simples, útil e 
 ## Funcionalidades
 * Pesquisar produtos utilizando a API do Mercado Livre
 * Servir como exemplo de chatbot simples
-* Mostrar que nem só de garotas 3D o mundo é feito.
+
 
 ## Telas e Habilidades
 
