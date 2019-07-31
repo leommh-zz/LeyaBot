@@ -1,6 +1,11 @@
 # LeyaBot
 Ela é orientada via regras e contém algumas funções bacanas como por exemplo pesquisar algum produto no Mercado Livre para você, lhe dando opções pré-estabelecidas de pesquisa ou então permitindo que você mesmo escreva algo do seu gosto. O projeto foi desenvolvido utilizando a biblioteca javascript React-Native e também a API do [MercadoLibre](https://developers.mercadolibre.com/pt_br/api-docs-pt-br) e a biblioteca [React-Native-Chatbot](https://github.com/LucasBassetti/react-native-chatbot).
 
+### Utilizar
+#### 1 - git clone
+#### 2 - yarn install
+#### 3 - react-native run-android
+
 ## Motivo de sua existência
 Demonstrar que é possível desenvolver rapidamente um chatbot simples, útil e bonito utilizando React-Native, NodeJS e APIs.
 
